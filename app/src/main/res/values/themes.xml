@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.ExpenseTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryDark">#0D47A1</item>
+        <item name="colorAccent">#FF5252</item>
+    </style>
+    <style name="Theme.ExpenseTracker" parent="Base.Theme.ExpenseTracker" />
+</resources>

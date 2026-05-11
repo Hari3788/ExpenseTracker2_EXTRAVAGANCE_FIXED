@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#F44336</color>
+    <color name="budget_warning">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#F5F5F5</color>
+
+    <!-- Savings screen card backgrounds -->
+    <color name="alert_red_bg">#FFEBEE</color>
+    <color name="alert_orange_bg">#FFF3E0</color>
+    <color name="alert_green_bg">#E8F5E9</color>
+
+    <!-- Text colors for savings cards -->
+    <color name="text_dark">#212121</color>
+    <color name="text_secondary">#555555</color>
+</resources>
